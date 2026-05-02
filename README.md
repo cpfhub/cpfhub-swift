@@ -1,8 +1,8 @@
-# CPFHub: SDK Swift para Consulta de CPF (AI-Native)
+# CPFHub: SDK for CPFHub.io
 
 **Official Swift SDK for [CPFHub.io](https://cpfhub.io) — Brazilian CPF Lookup API**
 
-> SDK oficial Swift para a [CPFHub.io](https://cpfhub.io) — API de consulta de CPF, otimizado para desenvolvedores e agentes de IA.
+> Official SDK for [CPFHub.io](https://cpfhub.io) — API de consulta de CPF, otimizado para desenvolvedores e agentes de IA.
 
 [![Swift Package Index](https://img.shields.io/badge/SPM-compatible-brightgreen)](https://swiftpackageindex.com/cpfhub/cpfhub-swift)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -11,7 +11,7 @@
 
 ---
 
-## O que é CPFHub.io?
+## What is CPFHub.io?
 
 CPFHub.io é uma API REST que retorna nome, gênero e data de nascimento a partir de qualquer CPF brasileiro — em ~300ms, com 99.9% de uptime, e total conformidade com a LGPD.
 
@@ -19,7 +19,7 @@ CPFHub.io é uma API REST que retorna nome, gênero e data de nascimento a parti
 
 ---
 
-## Por que usar o SDK Swift do CPFHub.io?
+## Why use the CPFHub.io SDK Swift do CPFHub.io?
 
 Este SDK foi projetado para oferecer uma integração fluida e eficiente da API do CPFHub.io em projetos Swift e Apple, com foco em Developer Experience (DX) e compatibilidade com Agentes de IA.
 
@@ -38,7 +38,7 @@ Para facilitar a integração com agentes de IA e LLMs, este SDK e a API do CPFH
 
 ---
 
-## Installation / Instalação
+## Installation / Installation
 
 ### Swift Package Manager (Xcode)
 
@@ -178,6 +178,6 @@ struct OnboardingView: View {
 
 ---
 
-## License / Licença
+## License / License
 
 MIT © [CPFHub.io](https://cpfhub.io)
